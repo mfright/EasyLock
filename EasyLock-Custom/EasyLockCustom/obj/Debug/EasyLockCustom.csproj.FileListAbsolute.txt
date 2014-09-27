@@ -1,0 +1,9 @@
+C:\Users\_\Documents\GitHub\EasyLock\EasyLock-Custom\EasyLockCustom\bin\Debug\EasyLock.exe.config
+C:\Users\_\Documents\GitHub\EasyLock\EasyLock-Custom\EasyLockCustom\obj\Debug\EasyLock.exe
+C:\Users\_\Documents\GitHub\EasyLock\EasyLock-Custom\EasyLockCustom\obj\Debug\EasyLock.pdb
+C:\Users\_\Documents\GitHub\EasyLock\EasyLock-Custom\EasyLockCustom\bin\Debug\EasyLock.exe
+C:\Users\_\Documents\GitHub\EasyLock\EasyLock-Custom\EasyLockCustom\bin\Debug\EasyLock.pdb
+C:\Users\_\Documents\GitHub\EasyLock\EasyLock-Custom\EasyLockCustom\obj\Debug\EasyLockCustom.csprojResolveAssemblyReference.cache
+C:\Users\_\Documents\GitHub\EasyLock\EasyLock-Custom\EasyLockCustom\obj\Debug\EasyLock.Form1.resources
+C:\Users\_\Documents\GitHub\EasyLock\EasyLock-Custom\EasyLockCustom\obj\Debug\EasyLock.Properties.Resources.resources
+C:\Users\_\Documents\GitHub\EasyLock\EasyLock-Custom\EasyLockCustom\obj\Debug\EasyLockCustom.csproj.GenerateResource.Cache
