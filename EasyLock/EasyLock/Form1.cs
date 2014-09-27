@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * 
+ * ソースコード参照
+ * http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1080106570
+ * http://hongliang.seesaa.net/article/7539988.html
+ */
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -10,10 +17,11 @@ using System.Windows.Forms;
 
 using System.Runtime.InteropServices;
 
-namespace AutoLockCanceller
+namespace EasyLock
 {
     public partial class Form1 : Form
     {
+        
         
         // kernel32 APIを使用する。
         [DllImport("kernel32.dll")]
@@ -45,7 +53,29 @@ namespace AutoLockCanceller
 
             this.Visible = false;
 
+
+
+            // initialize both classes
+            KeyboardHook keyboardHook = new KeyboardHook();
+
+            // add as many events as you like
+            keyboardHook.KeyDown += new KeyboardHook.KeyboardHookCallback(keyboardHook_KeyDown);
+
+            // install hooks
+            keyboardHook.Install();
         }
+
+        private static void keyboardHook_KeyDown(KeyboardHook.VKeys key)
+        {
+            Console.WriteLine(key.ToString());
+
+            if (key == KeyboardHook.VKeys.PAUSE)
+            {
+                System.Diagnostics.Process.Start(@"C:\WINDOWS\system32\rundll32.exe", "user32.dll,LockWorkStation");
+            }
+        }
+
+
 
         // Quitを押したとき
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
@@ -69,15 +99,33 @@ namespace AutoLockCanceller
 
         }
 
-
+        /// <summary>
+        /// 初期化。Form1は見えないようにする。
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Form1_Load(object sender, EventArgs e)
         {
             this.Visible = false;
+
+            
         }
 
+        /// <summary>
+        /// 画面ロックする処理
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void lockToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            windowLock();
+        }
+
+
+        public void windowLock()
         {
             System.Diagnostics.Process.Start(@"C:\WINDOWS\system32\rundll32.exe", "user32.dll,LockWorkStation");
         }
+        
     }
 }

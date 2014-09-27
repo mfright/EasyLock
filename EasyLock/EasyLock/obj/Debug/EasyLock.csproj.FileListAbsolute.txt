@@ -7,3 +7,12 @@ C:\Users\_\Documents\Visual Studio 2013\Projects\EasyLock\EasyLock\obj\Debug\Eas
 C:\Users\_\Documents\Visual Studio 2013\Projects\EasyLock\EasyLock\obj\Debug\AutoLockCanceller.Form1.resources
 C:\Users\_\Documents\Visual Studio 2013\Projects\EasyLock\EasyLock\obj\Debug\AutoLockCanceller.Properties.Resources.resources
 C:\Users\_\Documents\Visual Studio 2013\Projects\EasyLock\EasyLock\obj\Debug\EasyLock.csproj.GenerateResource.Cache
+C:\Users\_\Documents\GitHub\EasyLock\EasyLock\EasyLock\bin\Debug\EasyLock.exe.config
+C:\Users\_\Documents\GitHub\EasyLock\EasyLock\EasyLock\bin\Debug\EasyLock.exe
+C:\Users\_\Documents\GitHub\EasyLock\EasyLock\EasyLock\bin\Debug\EasyLock.pdb
+C:\Users\_\Documents\GitHub\EasyLock\EasyLock\EasyLock\obj\Debug\EasyLock.csprojResolveAssemblyReference.cache
+C:\Users\_\Documents\GitHub\EasyLock\EasyLock\EasyLock\obj\Debug\EasyLock.Properties.Resources.resources
+C:\Users\_\Documents\GitHub\EasyLock\EasyLock\EasyLock\obj\Debug\EasyLock.csproj.GenerateResource.Cache
+C:\Users\_\Documents\GitHub\EasyLock\EasyLock\EasyLock\obj\Debug\EasyLock.exe
+C:\Users\_\Documents\GitHub\EasyLock\EasyLock\EasyLock\obj\Debug\EasyLock.pdb
+C:\Users\_\Documents\GitHub\EasyLock\EasyLock\EasyLock\obj\Debug\EasyLock.Form1.resources
