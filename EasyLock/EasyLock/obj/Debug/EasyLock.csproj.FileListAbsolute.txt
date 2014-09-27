@@ -1,0 +1,9 @@
+C:\Users\_\Documents\Visual Studio 2013\Projects\EasyLock\EasyLock\bin\Debug\AutoLockCanceller.exe.config
+C:\Users\_\Documents\Visual Studio 2013\Projects\EasyLock\EasyLock\obj\Debug\AutoLockCanceller.exe
+C:\Users\_\Documents\Visual Studio 2013\Projects\EasyLock\EasyLock\obj\Debug\AutoLockCanceller.pdb
+C:\Users\_\Documents\Visual Studio 2013\Projects\EasyLock\EasyLock\bin\Debug\AutoLockCanceller.exe
+C:\Users\_\Documents\Visual Studio 2013\Projects\EasyLock\EasyLock\bin\Debug\AutoLockCanceller.pdb
+C:\Users\_\Documents\Visual Studio 2013\Projects\EasyLock\EasyLock\obj\Debug\EasyLock.csprojResolveAssemblyReference.cache
+C:\Users\_\Documents\Visual Studio 2013\Projects\EasyLock\EasyLock\obj\Debug\AutoLockCanceller.Form1.resources
+C:\Users\_\Documents\Visual Studio 2013\Projects\EasyLock\EasyLock\obj\Debug\AutoLockCanceller.Properties.Resources.resources
+C:\Users\_\Documents\Visual Studio 2013\Projects\EasyLock\EasyLock\obj\Debug\EasyLock.csproj.GenerateResource.Cache

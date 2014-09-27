@@ -1,0 +1,9 @@
+C:\Users\_\Documents\GitHub\AutoLockCanceller\AutoLockCanceller\AutoLockCanceller\bin\Debug\AutoLockCanceller.exe.config
+C:\Users\_\Documents\GitHub\AutoLockCanceller\AutoLockCanceller\AutoLockCanceller\bin\Debug\AutoLockCanceller.exe
+C:\Users\_\Documents\GitHub\AutoLockCanceller\AutoLockCanceller\AutoLockCanceller\bin\Debug\AutoLockCanceller.pdb
+C:\Users\_\Documents\GitHub\AutoLockCanceller\AutoLockCanceller\AutoLockCanceller\obj\Debug\AutoLockCanceller.csprojResolveAssemblyReference.cache
+C:\Users\_\Documents\GitHub\AutoLockCanceller\AutoLockCanceller\AutoLockCanceller\obj\Debug\AutoLockCanceller.Form1.resources
+C:\Users\_\Documents\GitHub\AutoLockCanceller\AutoLockCanceller\AutoLockCanceller\obj\Debug\AutoLockCanceller.Properties.Resources.resources
+C:\Users\_\Documents\GitHub\AutoLockCanceller\AutoLockCanceller\AutoLockCanceller\obj\Debug\AutoLockCanceller.csproj.GenerateResource.Cache
+C:\Users\_\Documents\GitHub\AutoLockCanceller\AutoLockCanceller\AutoLockCanceller\obj\Debug\AutoLockCanceller.exe
+C:\Users\_\Documents\GitHub\AutoLockCanceller\AutoLockCanceller\AutoLockCanceller\obj\Debug\AutoLockCanceller.pdb
